@@ -1,1 +1,2 @@
 # Portfolio_Project_01
+"I've crafted a captivating portfolio webpage using HTML and CSS technologies. Through clean and well-structured HTML, I've outlined my projects and achievements, ensuring easy navigation for visitors. CSS stylings have been applied thoughtfully to enhance the visual appeal and create a harmonious design. This showcases my dedication not only to the content but also to the user experience, offering a glimpse of my skills and creativity."
